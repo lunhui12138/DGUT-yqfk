@@ -4,7 +4,7 @@ services:
   yqfk:
     image: masterkenway/dgut_yqfk
     environment:
-      - USERNAME=
-      - PASSWORD=
-      - SCKEY=
+      - USERNAME=202041112123
+      - PASSWORD=Lh552211
+      - SCKEY=SCT77669TSVkNaqH7O4ysHgbz74Et69n8
     restart: always
